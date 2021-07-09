@@ -1,6 +1,12 @@
 # wordlists
 some useful wordlists
 
+<b>09_1.txt:</b> sadece rakamlardan oluşan wordlist (10 adet parola, 28 B)
+
+<b>09_2.txt:</b> 2 basamaklı rakamların karışımından oluşan wordlist (100 adet parola, 398 B)
+
+<b>09_3.txt:</b> 3 basamaklı rakamların karışımından oluşan wordlist (1,000 adet parola, 4.88 KB)
+
 <b>09_4.txt:</b> 4 basamaklı rakamların karışımından oluşan wordlist (10,000 adet parola, 58.6 KB, PIN Brute Force)
 
 <b>09_5.txt:</b> 5 basamaklı rakamların karışımından oluşan wordlist (100,000 adet parola, 684 KB)
